@@ -15,4 +15,4 @@ This is a simple command-line To-Do List Application written in Python.
 1. Run the application by executing `todo.py` using Python.
 
    ```shell
-   python todo_app.py
+   python todo_app.py.py
