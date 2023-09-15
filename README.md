@@ -3,13 +3,6 @@ Python To-Do List Manager
 
 This is a simple command-line To-Do List Application written in Python.
 
-## Table of Contents
-- [Features](#features)
-- [Usage](#usage)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Add tasks to the to-do list.
